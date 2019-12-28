@@ -2,4 +2,4 @@ For this challenge, we are given a link to a GitHub profile (https://github.com/
 
 We then look through the repositories that the user has got and find a refernce to a pastebin link on the bash2048.
 The link requires a code, which is found in the .bashrc2 file in the users dotfiles repository.
-This gives us the link, which gives us the flag:
+This gives us the link: https://pastebin.com/trpNwEPT, which gives us the flag: infernoCTF{n3ver_4dd_sen5itv3_7hings_to_y0ur_publ1c_git}
