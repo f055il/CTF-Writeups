@@ -1,6 +1,0 @@
-For this challenge, we are given a png image which consists of several squares of different colours.
-
-I got the hex values for each colour (I did this manually, which was a mistake as it was very time consuming). 
-I then put these hex values into cyberchef and selected the 'from hex' operator.
-This gave me a string which included the flag:
-
