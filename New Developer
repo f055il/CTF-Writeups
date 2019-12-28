@@ -1,0 +1,5 @@
+For this challenge, we are given a link to a GitHub profile (https://github.com/iamthedeveloper123).
+
+We then look through the repositories that the user has got and find a refernce to a pastebin link on the bash2048.
+The link requires a code, which is found in the .bashrc2 file in the users dotfiles repository.
+This gives us the link, which gives us the flag:
