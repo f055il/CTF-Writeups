@@ -1,4 +1,5 @@
 For this challenge, we are given a .mbox file, which, if you open it up in a text editor has a couple of emails.
 In one of these emails, they say that they will post something on twitter, so we go to their account: https://twitter.com/imdeveloper123.
 
-We then follow the link, but we get a message saying that it has been taken down, so we look at the page in the web archive which gives us the flag.
+We then follow the link, but we get a message saying that it has been taken down, so we look at the page in the web archive: https://web.archive.org/web/20191224223734/https://iamthedeveloper123.weebly.com/.
+Which gives us the flag: infernoCTF{y0u_f0und_7h3_d1sgrun7l3d_empl0y33!}
