@@ -1,0 +1,5 @@
+For this challenge we are given a file which, if you open it with a text editor, we are given n, e and the ciphertext given in chunks of hex.
+
+We input the number n into factordb.com to get the prime factors p and q.
+We put these factors onto the RSA decryption script and edit the script so it goes through each of the hex chunks and decodes each of them.
+The result is the flag:
