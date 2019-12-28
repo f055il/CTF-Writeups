@@ -1,0 +1,5 @@
+For this chellenge, we are given a .go script.
+
+If we look at it, we get a array of numbers.
+If we put these numbers into cyberchef and choose the 'from Decimal' operator, we get a string, w=but it seems to be in reverse, so we use the 'reverse' operator.
+We then input this string so it is in the correct format:
