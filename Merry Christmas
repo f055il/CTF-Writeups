@@ -5,4 +5,4 @@ A google for 'mrT4ntr4' gives us the twitter: https://twitter.com/mrt4ntr4, whic
 We then try to open the .gif file.
 There is an error so we open it using hexed.it.
 This shows us that the file signature is incorrect for a gif file, so we replace the file header with the correct one and open the gif file.
-The resulting image gives us the flag:
+The resulting image gives us the flag: infernoCTF{M3RRy_ChR1stmAs}
