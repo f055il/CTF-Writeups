@@ -2,5 +2,6 @@ For this challenge, we are given a png image which consists of several squares o
 
 I got the hex values for each colour (I did this manually, which was a mistake as it was very time consuming). 
 I then put these hex values into cyberchef and selected the 'from hex' operator.
-This gave me a string which included the flag:
+This gave me a string: blahblahblah_hello_how_are_you_today_i_hope_you_are_not_doing_this_manually_infernoCTF{h3y_100k_y0u_4r3_n07_h3x_bl1nD_:O}_doing_this_manually_would_be_a_bad_idea_you_shouldnt_do_it_manually_ok 
+Which included the flag: infernoCTF{h3y_100k_y0u_4r3_n07_h3x_bl1nD_:O}
 
