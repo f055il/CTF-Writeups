@@ -1,0 +1,4 @@
+For this challenge, you are given a php script on a page.
+
+At first glance, it seems to be impossible for the die($flag) command to be executed, but, if you look at the second a and b, there are non-printable hex characters after them, so the variables are different.
+So I put the following into the URL: a=1&b=1&%62%e2%81%a6=1&%61%e2%81%a1=2, which gave the flag: TetCTF{sp3c1al_ch4rs_Sp3ci4l_Ch4ll}
